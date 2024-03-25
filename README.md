@@ -4,3 +4,6 @@ This is a simple test.
 I am just giving a random intro.
 ## Purpose
 The purpose is for something.
+
+### Copyright
+2024 Git Practicing
