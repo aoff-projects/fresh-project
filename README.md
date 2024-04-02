@@ -1,6 +1,7 @@
 # Starter Web Project
 This is a simple test.
 Adding a line for rebasing example.
+Emergency fix after stash.
 ## Introduction
 I am just giving a random intro.
 ## Purpose
