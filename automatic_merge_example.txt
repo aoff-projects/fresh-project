@@ -6,3 +6,5 @@ Adding changes to conflicted rebasing.
 Now testing stashing. Yeahhhh.
 
 More random text.
+
+Multiple stash example.
