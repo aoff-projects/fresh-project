@@ -10,4 +10,4 @@ The purpose is for something.
 Fork and do something.
 
 ### Copyright
-2024 Git Practicing
+2024 Git Practicing. All rights reserved.
