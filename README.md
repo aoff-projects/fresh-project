@@ -2,6 +2,7 @@
 This is a simple test.
 Adding a line for rebasing example.
 Emergency fix after stash.
+Adding text for tag example.
 ## Introduction
 I am just giving a random intro.
 ## Purpose
