@@ -8,3 +8,5 @@ Now testing stashing. Yeahhhh.
 More random text.
 
 Multiple stash example.
+
+Tag example.
